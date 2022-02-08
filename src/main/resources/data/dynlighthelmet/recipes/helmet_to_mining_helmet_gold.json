@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:gold_helmet"
+    },
+    "addition": {
+        "item": "dynlighthelmet:upgrade_kit"
+    },
+    "result": {
+        "item": "dynlighthelmet:mining_helmet_gold"
+    }
+}

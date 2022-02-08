@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "c#C",
+        "LiL",
+        "i i"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lantern"
+        },
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "i": {
+            "item": "minecraft:scute"
+        },
+        "c": {
+            "item": "minecraft:clock"
+        },
+        "C": {
+            "item": "minecraft:compass"
+        }
+    },
+    "result": {
+        "item": "dynlighthelmet:mining_helmet_turtle",
+        "count": 1
+    }
+}
