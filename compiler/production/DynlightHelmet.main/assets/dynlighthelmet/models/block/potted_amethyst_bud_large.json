@@ -1,6 +1,0 @@
-{
-  "parent": "dynlighthelmet:block/potted_amethyst_blocks",
-  "textures": {
-    "plant": "minecraft:block/large_amethyst_bud"
-  }
-}

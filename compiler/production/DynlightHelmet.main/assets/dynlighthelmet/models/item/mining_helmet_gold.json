@@ -1,6 +1,0 @@
-{
-	"parent": "minecraft:item/generated",
-	"textures": {
-		"layer0": "dynlighthelmet:item/mining_helmet_gold"
-	}
-}
