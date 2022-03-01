@@ -1,7 +1,7 @@
 {
     "type": "minecraft:smithing",
     "base": {
-        "item": "minecraft:gold_helmet"
+        "item": "minecraft:golden_helmet"
     },
     "addition": {
         "item": "dynlighthelmet:upgrade_kit"

@@ -1,0 +1,6 @@
+{
+  "parent": "dynlighthelmet:block/compression_barrel_2",
+  "textures": {
+    "content": "minecraft:block/birch_sapling"
+  }
+}

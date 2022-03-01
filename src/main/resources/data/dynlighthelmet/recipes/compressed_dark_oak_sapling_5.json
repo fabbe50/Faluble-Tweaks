@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "dynlighthelmet:compressed_dark_oak_sapling_4"
+    }
+  },
+  "result": {
+    "item": "dynlighthelmet:compressed_dark_oak_sapling_5"
+  }
+}

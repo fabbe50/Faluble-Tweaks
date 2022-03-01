@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dynlighthelmet:compressed_birch_sapling_7"
+    }
+  ],
+  "result": {
+    "item": "dynlighthelmet:compressed_birch_sapling_6",
+    "count": 9
+  }
+}

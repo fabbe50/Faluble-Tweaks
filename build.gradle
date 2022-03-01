@@ -24,6 +24,9 @@ repositories {
 		name 'Gegy'
 		url 'https://maven.gegy.dev'
 	}
+	maven {
+		url 'https://dl.cloudsmith.io/public/geckolib3/geckolib/maven/'
+	}
 	flatDir {
 		dirs 'libs'
 	}
@@ -40,6 +43,7 @@ dependencies {
 
 	modImplementation include("dev.lambdaurora:spruceui:${project.spruceui_version}")
 	modImplementation("dev.lambdaurora.lambdynlights:lambdynamiclights:${project.dynlights_version}")
+	modImplementation 'software.bernie.geckolib:geckolib-fabric-1.18:3.0.32'
 	modImplementation("com.terraformersmc:modmenu:${project.modmenu_version}") {
 		transitive = false
 	}

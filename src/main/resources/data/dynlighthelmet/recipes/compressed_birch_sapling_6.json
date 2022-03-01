@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "dynlighthelmet:compressed_birch_sapling_5"
+    }
+  },
+  "result": {
+    "item": "dynlighthelmet:compressed_birch_sapling_6"
+  }
+}

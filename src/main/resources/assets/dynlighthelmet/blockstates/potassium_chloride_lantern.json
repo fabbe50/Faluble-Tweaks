@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "dynlighthelmet:block/kcl_lantern"
+    },
+    "hanging=true": {
+      "model": "dynlighthelmet:block/kcl_lantern_hanging"
+    }
+  }
+}

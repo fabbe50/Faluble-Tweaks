@@ -1,0 +1,6 @@
+{
+  "parent": "dynlighthelmet:block/compression_level_3",
+  "textures": {
+    "all": "minecraft:block/cobbled_deepslate"
+  }
+}

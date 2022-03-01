@@ -1,0 +1,6 @@
+{
+  "parent": "dynlighthelmet:block/compression_barrel_0",
+  "textures": {
+    "content": "minecraft:block/jungle_sapling"
+  }
+}

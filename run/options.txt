@@ -1,5 +1,5 @@
 version:2865
-autoJump:true
+autoJump:false
 autoSuggestions:true
 chatColors:true
 chatLinks:true
@@ -36,8 +36,8 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["Fabric Mods"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","Fabric Mods","dynlighthelmet/animatedcampfire"]
+incompatibleResourcePacks:["dynlighthelmet/animatedcampfire"]
 lastServer:
 lang:en_us
 soundDevice:
@@ -66,7 +66,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:false
 hideBundleTutorial:false

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_campfire",
+  "textures": {
+    "fire": "dynlighthelmet:block/kcl_campfire_fire",
+    "lit_log": "dynlighthelmet:block/kcl_campfire_log_lit"
+  }
+}

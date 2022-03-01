@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dynlighthelmet:compressed_jungle_sapling_5"
+    }
+  ],
+  "result": {
+    "item": "dynlighthelmet:compressed_jungle_sapling_4",
+    "count": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dynlighthelmet:compressed_cobbled_deepslate_4"
+    }
+  ],
+  "result": {
+    "item": "dynlighthelmet:compressed_cobbled_deepslate_3",
+    "count": 9
+  }
+}

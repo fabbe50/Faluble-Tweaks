@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dynlighthelmet:compressed_acacia_sapling_4"
+    }
+  ],
+  "result": {
+    "item": "dynlighthelmet:compressed_acacia_sapling_3",
+    "count": 9
+  }
+}

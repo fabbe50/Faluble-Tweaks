@@ -1,0 +1,6 @@
+{
+  "parent": "dynlighthelmet:block/compression_level_9",
+  "textures": {
+    "all": "minecraft:block/tuff"
+  }
+}

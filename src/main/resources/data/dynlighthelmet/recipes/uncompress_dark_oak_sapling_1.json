@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dynlighthelmet:compressed_dark_oak_sapling_1"
+    }
+  ],
+  "result": {
+    "item": "dynlighthelmet:compressed_dark_oak_sapling_0",
+    "count": 9
+  }
+}

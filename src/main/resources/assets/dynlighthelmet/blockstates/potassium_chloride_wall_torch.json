@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "dynlighthelmet:block/kcl_wall_torch"
+    },
+    "facing=north": {
+      "model": "dynlighthelmet:block/kcl_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "dynlighthelmet:block/kcl_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "dynlighthelmet:block/kcl_wall_torch",
+      "y": 180
+    }
+  }
+}

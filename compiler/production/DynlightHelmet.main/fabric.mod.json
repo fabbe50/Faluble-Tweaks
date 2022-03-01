@@ -3,10 +3,11 @@
   "id": "dynlighthelmet",
   "version": "${version}",
 
-  "name": "Dynamic Lights Helmet",
-  "description": "This is a Helmet!",
+  "name": "Faluble Tweaks",
+  "description": "Smol tweaks for Minecraft!",
   "authors": [
-    "fabbe50"
+    "fabbe50",
+    "lucille19"
   ],
   "contact": {
     "homepage": "",
